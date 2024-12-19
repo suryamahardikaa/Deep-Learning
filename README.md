@@ -1,5 +1,4 @@
-# Deep-Learning
-Deteksi Kesegaran Ikan Menggunakan CNN
+# Deep-Learning [Fish Freshness Detection Using Convolutional Neural Networks (CNN)]
 
 <h2>Deep Learning Members:</h2>
 
